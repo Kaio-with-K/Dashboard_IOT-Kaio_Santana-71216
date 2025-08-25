@@ -252,9 +252,11 @@ streamlit run src/app.py
 Desenvolvido por **Kaio Santana**  
 💼 Técnico em TI • Professor • Desenvolvedor • Designer
 
-🔗<a href="https://www.linkedin.com/in/kaiojsantana/" target="_blank">LinkedIn</a>
+🔗[LinkedIn](https://www.linkedin.com/in/kaiojsantana/)
+> 💡 *Dica: clique com o botão direito e selecione "Abrir em nova aba"*
 
 ---
 
 ## 📹 Vídeo no Youtube
-🔗<a href="https://www.youtube.com/watch?v=YtkB1NCOL-U" target="_blank">Clique aqui</a>
+🔗 [Clique aqui para assistir ao vídeo](https://www.youtube.com/watch?v=YtkB1NCOL-U)  
+> 💡 *Dica: clique com o botão direito e selecione "Abrir em nova aba"*
